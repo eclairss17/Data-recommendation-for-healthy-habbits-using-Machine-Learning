@@ -1,9 +1,39 @@
+😂😂
+Time
+Tu bata dena
+I m free
+7
+Teke
+Call me 6.30
+Me so lungi
+Tb tk
+Okay
+See you then !!
+Pr kaha
+Place to pata hi nahi
+Decide krte h na tbhi
+https://www.noticebard.com/iit-hyderabad-summer-internship-2020/
+Whatsapp pr files dera h ki mail
+Gui pr bana hua h
+Acha
+Toh zip file bhej de
+Bhejta hu
+Ouk
+Gui ki separate file nahi hoti h
+Pata h poora sath hi hoga na
+To zip ki zarurat nahi h
+Teeke
+Zip transfer krna asan hota maybe
+Agr size bada hota
+sun
+text format bhi  bhej na
+khol kr
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -- coding: utf-8 --
 """
 Created on Sun Jan 19 23:38:07 2020
 
-@author: jainish
+@author: ekleen
 """
 
 import tkinter as tk
